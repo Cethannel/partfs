@@ -79,6 +79,7 @@
         "build.zig",
         "build.zig.zon",
         "src",
+        "partfs.c",
         // For example...
         //"LICENSE",
         //"README.md",
